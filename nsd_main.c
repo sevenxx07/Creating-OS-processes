@@ -1,9 +1,3 @@
-/*
- * File name: nsd_main.c
- * Date:      2017/10/21 09:20
- * Author:    Jan Chudoba
- */
-
 #include <stdio.h>
 
 #include "nd.h"
